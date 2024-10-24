@@ -1,0 +1,4 @@
+enum SocketEventType {
+  newRequest,
+  updateRequest,
+}
